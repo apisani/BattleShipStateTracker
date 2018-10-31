@@ -24,8 +24,8 @@ Run the project from visual studio and follow the instruction on the promt, or s
 #### 2. Instructions
 
 Once the console applicatin is running, the user must type commands follow by the Enter key. See available commands listed below:
-* '**\help**' : Provide a list of all commands
-* '**\quit**' : Exit the application
+* '**/help**' : Provide a list of all commands
+* '**/quit**' : Exit the application
 * '**status**' : Give the current status of the game (ships on board with details: position, health, damaged, undamaged, sunk...)
 * '**addship [x] [y] [orientation] [length]**' : Add a ship on the board, specifying its coordinates (with x: number (no decimal), y: number (no decimal)), orientation ('vertical' or 'hozirontal'), and its length: number (no decimal)
 * '**attack [x] [y]**' Fire at specified coordinates (with x: number (no decimal), y: number (no decimal))
