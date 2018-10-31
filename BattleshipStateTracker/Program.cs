@@ -45,8 +45,8 @@ namespace BattleshipStateTracker
             Console.WriteLine("'attack [x] [y]'");
             Console.WriteLine("with x: number (no decimal), y: number (no decimal)\n");
             Console.WriteLine("'status' for current game status\n");
-            Console.WriteLine("'\\help' for commands list\n");
-            Console.WriteLine("'\\quit' to extit the game\n");
+            Console.WriteLine("'/help' for commands list\n");
+            Console.WriteLine("'/quit' to extit the game\n");
             Console.WriteLine("Please consult Read.me for more information\n");
         }
 
